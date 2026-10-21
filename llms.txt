@@ -1,0 +1,38 @@
+# Garagem Certa
+
+> Acessórios e cuidados para carro e moto. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Categorias
+- [Acessórios para moto](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/acessorios-para-moto/)
+- [Manutenção e limpeza do veículo](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/manutencao-e-limpeza-do-veiculo/)
+- [Aces. de Motos e Quadriciclos](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/aces-de-motos-e-quadriciclos/)
+- [Peças e acabamento](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/pecas-e-acabamento/)
+- [Baús, travas e segurança](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/baus-travas-e-seguranca/)
+- [Ferramentas manuais](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/ferramentas-manuais/)
+- [Som e tecnologia para o carro](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/som-e-tecnologia-para-o-carro/)
+- [Carregadores de bateria automotiva](https://marcusviniciusps08-hue.github.io/garagem-certa/categoria/carregadores-de-bateria-automotiva/)
+
+## Guias de compra
+- [Como escolher aces. de motos e quadriciclos: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/como-escolher-aces-de-motos-e-quadriciclos/)
+- [Aces. de Motos e Quadriciclos até R$ 50: opções e preços](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/aces-de-motos-e-quadriciclos-ate-50/)
+- [Como escolher carregador de bateria: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/como-escolher-carregador-de-bateria/)
+- [Carregadores de bateria automotiva até R$ 170: opções e preços](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/carregadores-de-bateria-automotiva-ate-170/)
+- [Como escolher espelhos retrovisores: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/como-escolher-espelhos-retrovisores/)
+- [Espelhos Retrovisores até R$ 40: opções e preços](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/espelhos-retrovisores-ate-40/)
+- [Como escolher pneu: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/como-escolher-pneu/)
+- [Pneus até R$ 650: opções e preços](https://marcusviniciusps08-hue.github.io/garagem-certa/guias/pneus-ate-650/)
+
+## Comparativos
+- [Rede Elástica Para Capacete E Bagageiro De Moto vs Fivela Cinta Jugular Engate Rápido Micrométrico Pra Capacete: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/rede-elastica-para-capacete-e-bagageiro-de-moto-vs-fivela-cinta-jugular-engate-rapido-micr/)
+- [Fivela Cinta Jugular Engate Rápido Micrométrico Pra Capacete vs Capa De Raios Protetor Para Motos Bike Cores: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/fivela-cinta-jugular-engate-rapido-micrometrico-pra-capacete-vs-capa-de-raios-protetor-par/)
+- [Reparo Kit Suporte Viseira Botao Capacete Ls2 Ff358 vs Corda Elástico 2 Metros Bagageiro Moto Bike Kit: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/reparo-kit-suporte-viseira-botao-capacete-ls2-ff358-vs-corda-elastico-2-metros-bagageiro-m/)
+- [Carregador de Bateria 12V 6A Bivolt Inteligente Carro vs Carregador Inteligente De Bateria Automotiva 12v 6a Bivolt: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/carregador-de-bateria-12v-6a-bivolt-inteligente-carro-vs-carregador-inteligente-de-bateria/)
+- [Auxiliar de Partida Compressor de Ar e Power vs Auxiliar de Partida Carregador Bateria Com Compressor de: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/auxiliar-de-partida-compressor-de-ar-e-power-vs-auxiliar-de-partida-carregador-bateria-com/)
+- [Retrovisor Kawasaki Z400 Rebaixado Haste Curta Honda/convexa vs Retrovisor Bmw Gs F800 Rebaixado Haste Curta Média: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/retrovisor-kawasaki-z400-rebaixado-haste-curta-honda-convexa-vs-retrovisor-bmw-gs-f800-reb/)
+- [Kit 2 Pneus 175/70R13 Goodyear Kelly Edge Touring vs Kit 2 Pneus Firestone F700 175/65R14 82T aro: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/kit-2-pneus-175-70r13-goodyear-kelly-edge-touring-vs-kit-2-pneus-firestone-f700-175-65r14-/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/garagem-certa/sobre/)
+- [Perguntas frequentes](https://marcusviniciusps08-hue.github.io/garagem-certa/faq/)
