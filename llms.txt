@@ -17,7 +17,7 @@ Contém links de afiliado Mercado Livre.
 
 ## Comparativos
 - [Carregador Inteligente De Bateria Automotiva 12v 6a Bivolt vs Carregador de Bateria 12V 6A Bivolt Inteligente Carro: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/carregador-inteligente-de-bateria-automotiva-12v-6a-bivolt-vs-carregador-de-bateria-12v-6a/)
-- [Auxiliar de Partida Carregador Bateria Com Compressor de vs Auxiliar de Partida Compressor de Ar e Power: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/auxiliar-de-partida-carregador-bateria-com-compressor-de-vs-auxiliar-de-partida-compressor/)
+- [Auxiliar de Partida Compressor de Ar e Power vs Auxiliar de Partida Carregador Bateria Com Compressor de: comparativo](https://marcusviniciusps08-hue.github.io/garagem-certa/comparativos/auxiliar-de-partida-compressor-de-ar-e-power-vs-auxiliar-de-partida-carregador-bateria-com/)
 
 ## Sobre
 - [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/garagem-certa/sobre/)
